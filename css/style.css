@@ -101,6 +101,7 @@
   background-color: #c18f59;
   margin: 6px 0;
   transition: 0.4s; }
+.btn{background:#333;border:2px solid #aa6e55;color:white;}
 .btn:hover{ transform:scale(1.5);}
 .change .bar1 {
   transform: rotate(-45deg) translate(-6px, 6px);
